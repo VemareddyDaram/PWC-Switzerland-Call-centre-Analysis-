@@ -1,5 +1,7 @@
 # PWC-Switzerland-Call-centre-Analysis                                                                                                                                                                                  
-                                                                                                                                                                                                                        
+                                                                                                                                                                                                                    
+   ![image](https://github.com/user-attachments/assets/7bf335ee-0837-45aa-be89-7864971dac6b)
+                                                                                                                                                                                                                
 # Introduction                                                                                                                                                                                                          
                                                                                                                                                                                                                         
 Ever wondered what goes on behind the scenes when you dial a customer service hotline? Unraveling the mysteries of call center trends not only reveals the challenges these hubs face but also opens the door to strategic solutions.
